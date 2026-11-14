@@ -2,11 +2,16 @@
 
 <img src="assets/banner.svg" alt="Banner" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E11D2E&center=true&vCenter=true&width=600&lines=A+short+line+about+you;Another+line+or+goal;A+third+line" alt="Animated lines"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E11D2E&center=true&vCenter=true&width=600&lines=It+doesn't+matter+how+hard+things+get;I'm+still+filled+with+DETERMINATION;" alt="Animated lines"/></a>
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0B0B0D?style=for-the-badge&logo=python&logoColor=E11D2E)
+![CSS3](https://img.shields.io/badge/CSS3-0B0B0D?style=for-the-badge&logo=css&logoColor=E11D2E)
+![Java](https://img.shields.io/badge/Java-0B0B0D?style=for-the-badge&logo=openjdk&logoColor=E11D2E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0D?style=for-the-badge&logo=javascript&logoColor=E11D2E)
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0D?style=for-the-badge&logo=html5&logoColor=E11D2E)
+![SQL](https://img.shields.io/badge/SQL-0B0B0D?style=for-the-badge&logo=mysql&logoColor=E11D2E)
 ![Git](https://img.shields.io/badge/Git-0B0B0D?style=for-the-badge&logo=git&logoColor=E11D2E)
 ![GitHub](https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=E11D2E)
 <!-- Swap or add badges: https://shields.io and https://simpleicons.org -->
@@ -17,29 +22,31 @@
 
 ## About me
 
-Write a short paragraph here about who you are, what you study or do, and what you are looking for.
+A young enthusiast in technology and foreign languages, looking always for improvement. 
 
-- Currently: [what you are studying or building]
-- Interests: [area 1], [area 2], [area 3]
-- Goal: [where you want to go]
+- Currently: Systems Analysis and Development student
+- Interests: Back-end, Cybersecurity, Hardware Engineer, Artificial Intelligence  
+- Goal:  Student exchange program in Japan and be a professional developer
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Featured projects
 
-### [Project name 1]
+### EasyTask
 
-One or two sentences: what it does and what problem it solves.
+Application to organize tasks and demands. Target to people who want to have a better organization.
 
-**Tech:** `Technology A` `Technology B` `Technology C`
-**Link:** [View repository](https://github.com/YOUR-USERNAME/PROJECT-1)
+**Tech:** `Python`
+**Link:** [View repository](https://github.com/luannlira/EasyTask)
 
-### [Project name 2]
+### Saber Digital
 
-One or two sentences.
+Application to teach about fundamental concepts of digital security. Aimed for those who struggle to adapt or doesn't have the knowledge to avoid being scammed or something related.
 
-**Tech:** `Technology A` `Technology B`
-**Link:** [View repository](https://github.com/YOUR-USERNAME/PROJECT-2)
+**Tech:** `Java` `SpringBoot`
+**Link:** [View repository](https://github.com/lucashenrique0/LetterDigit-L4Code)
+
+**Still in development**
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -47,10 +54,9 @@ One or two sentences.
 
 | Area | Tools |
 |------|-------|
-| Languages | [e.g. Python] |
-| Interface | [e.g. Tkinter] |
-| Tools | [e.g. Git, GitHub] |
-| Learning | [what you are learning now] |
+| Languages | Python, Java |
+| Interface | Tkinter, HTML/CSS |
+| Tools | Git, GitHub, SQLite |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
