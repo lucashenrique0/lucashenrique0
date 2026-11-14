@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6b0a14" stop-opacity="0"/>
+      <stop offset="1" stop-color="#e11d2e"/>
+    </linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e11d2e"/>
+      <stop offset="1" stop-color="#6b0a14" stop-opacity="0"/>
+    </linearGradient>
+    <path id="pt" d="M0 -5 C-16 -8 -18 -26 -5 -36 C-2 -40 -1 -44 0 -50 C1 -44 2 -40 5 -36 C18 -26 16 -8 0 -5Z"/>
+    <g id="fl">
+      <use href="#pt" xlink:href="#pt" transform="rotate(0)" stroke-width="3.2"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(90)" stroke-width="3.2"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(180)" stroke-width="3.2"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(270)" stroke-width="3.2"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(0) translate(0 -2) scale(0.7)" stroke-width="3" opacity=".85"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(90) translate(0 -2) scale(0.7)" stroke-width="3" opacity=".85"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(180) translate(0 -2) scale(0.7)" stroke-width="3" opacity=".85"/>
+      <use href="#pt" xlink:href="#pt" transform="rotate(270) translate(0 -2) scale(0.7)" stroke-width="3" opacity=".85"/>
+      <path d="M0 -3 Q6 -10 0 -19 Q-6 -10 0 -3Z" stroke-width="2.4" opacity=".9" transform="rotate(45)"/>
+      <path d="M0 -3 Q6 -10 0 -19 Q-6 -10 0 -3Z" stroke-width="2.4" opacity=".9" transform="rotate(135)"/>
+      <path d="M0 -3 Q6 -10 0 -19 Q-6 -10 0 -3Z" stroke-width="2.4" opacity=".9" transform="rotate(225)"/>
+      <path d="M0 -3 Q6 -10 0 -19 Q-6 -10 0 -3Z" stroke-width="2.4" opacity=".9" transform="rotate(315)"/>
+      <circle r="7" stroke-width="2" opacity=".7"/>
+      <circle r="3" fill="#e11d2e" stroke="none"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="240" fill="#0B0B0D"/>
+  <rect x="10" y="10" width="1180" height="220" rx="6" fill="none" stroke="#e11d2e" stroke-opacity=".25"/>
+
+  <rect x="40" y="119" width="356" height="2" fill="url(#l)">
+    <animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="804" y="119" width="356" height="2" fill="url(#r)">
+    <animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="none" stroke="#e11d2e" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M448 100 L448 140" stroke-width="1.6"/>
+    <path d="M448 112 Q460 112 464 100 Q452 100 448 112Z" stroke-width="1.3" opacity=".85"/>
+    <path d="M448 130 Q436 130 432 142 Q444 142 448 130Z" stroke-width="1.3" opacity=".85"/>
+
+    <g transform="translate(448 85) scale(0.3)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+        <use href="#fl" xlink:href="#fl"/>
+      </g>
+    </g>
+    <g transform="translate(448 155) scale(0.3)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+        <use href="#fl" xlink:href="#fl"/>
+      </g>
+    </g>
+  </g>
+
+  <text x="492" y="132" font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="40" font-weight="500" letter-spacing="8" fill="#F5F5F5">YOUR NAME</text>
+  <text x="494" y="162" font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="13" letter-spacing="4" fill="#A3A3A3">DEVELOPER  ·  STUDENT</text>
+</svg>
