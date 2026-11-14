@@ -64,8 +64,8 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&icon_color=E11D2E&text_color=F5F5F5" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&text_color=F5F5F5" alt="Most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucashenrique0&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&icon_color=E11D2E&text_color=F5F5F5" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique0&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&text_color=F5F5F5" alt="Most used languages"/>
 
 <br/>
 
