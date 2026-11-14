@@ -28,8 +28,6 @@ A young enthusiast in technology and foreign languages, looking always for impro
 - Interests: Back-end, Cybersecurity, Hardware Engineer, Artificial Intelligence  
 - Goal:  Student exchange program in Japan and be a professional developer
 
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## Featured projects
 
 ### EasyTask
@@ -37,6 +35,7 @@ A young enthusiast in technology and foreign languages, looking always for impro
 Application to organize tasks and demands. Target to people who want to have a better organization.
 
 **Tech:** `Python`
+
 **Link:** [View repository](https://github.com/luannlira/EasyTask)
 
 ### Saber Digital
@@ -44,11 +43,10 @@ Application to organize tasks and demands. Target to people who want to have a b
 Application to teach about fundamental concepts of digital security. Aimed for those who struggle to adapt or doesn't have the knowledge to avoid being scammed or something related.
 
 **Tech:** `Java` `SpringBoot`
+
 **Link:** [View repository](https://github.com/lucashenrique0/LetterDigit-L4Code)
 
 **Still in development**
-
-<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## Tech stack and tools
 
@@ -58,7 +56,7 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 | Interface | Tkinter, HTML/CSS |
 | Tools | Git, GitHub, SQLite |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+
 
 ## Stats
 
