@@ -69,7 +69,7 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&hide_border=true&background=0B0B0D&ring=E11D2E&fire=E11D2E&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=A3A3A3" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucashenrique0&hide_border=true&background=0B0B0D&ring=E11D2E&fire=E11D2E&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=A3A3A3" alt="Contribution streak"/>
 
 </div>
 
