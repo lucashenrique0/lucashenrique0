@@ -64,8 +64,8 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucashenrique0&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&icon_color=E11D2E&text_color=F5F5F5" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique0&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&text_color=F5F5F5" alt="Most used languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=lucashenrique0&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&icon_color=E11D2E&text_color=F5F5F5" alt="GitHub stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucashenrique0&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=E11D2E&text_color=F5F5F5" alt="Most used languages"/>
 
 <br/>
 
@@ -79,8 +79,8 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=E11D2E)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E11D2E)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=E11D2E)](www.linkedin.com/in/lucas-h-0a76gee4)
+[![Email](https://img.shields.io/badge/Email-0B0B0D?style=for-the-badge&logo=gmail&logoColor=E11D2E)](mailto:lucas.henrique.workcontact@gmail.com)
 
 <br/>
 
