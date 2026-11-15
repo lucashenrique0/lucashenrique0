@@ -48,6 +48,16 @@ Application to teach about fundamental concepts of digital security. Aimed for t
 
 **Still in development**
 
+### Martian Map — Survival OS
+
+Project about the development of a new OS focused on helping the user to survive in Mars, builded in the hackathon NASA Space Apps Challenge.
+
+**Tech:** `HTML` `JavaScript` `Python`
+
+**Link:** [View repository](https://github.com/luannlira/martianmap-spaceapps-cg-2026)
+
+This repository is just a prototype, not a real OS.
+
 ## Tech stack and tools
 
 | Area | Tools |
